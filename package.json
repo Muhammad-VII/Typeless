@@ -1,0 +1,32 @@
+{
+  "name": "typeless",
+  "version": "1.0.0",
+  "description": "Build your dream website without writing any code",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-VII/Typeless.git"
+  },
+  "keywords": [
+    "web-design",
+    "webDev",
+    "web-building",
+    "website"
+  ],
+  "author": "Muhammad Akmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-VII/Typeless/issues"
+  },
+  "homepage": "https://github.com/Muhammad-VII/Typeless#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "typed.js": "^2.0.12"
+  }
+}
