@@ -1,0 +1,25 @@
+#ideas
+{
+    font-family: cursive;
+    background-color: cornsilk;
+}
+
+iframe{
+    border-radius: 3%;
+}
+.first-start{
+    color: black;
+    text-decoration:none !important;
+    transition: border-width .5s;
+    position: relative;
+    border-bottom: 1px solid black; 
+    border-right-width: 0px;
+
+
+}
+
+
+.first-start:hover{
+    color: #ccc;
+    border-right-width: 100px;
+}
